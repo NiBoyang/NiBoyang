@@ -1,7 +1,8 @@
-- 👋 Hola! This is **Boyang Ni** from University of Edinburgh.
+- 👋 Hola! This is **Boyang Ni** from the University of Edinburgh.
 - 👀 MSc Drug Discovery and Translational Biology.
-- 🌱 I’m currently learning computer-aided drug discovery.
-- 📮 Contact: B.Ni-1@sms.ed.ac.uk
+- 👀 Currently doing PhD Biological Sciences at UoE
+- 🌱 Focusing on computational drug discovery (ligand-based approaches)
+- 📮 Contact: Boyang.Ni@ed.ac.uk
 
 <!---
 NiBoyang/NiBoyang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
